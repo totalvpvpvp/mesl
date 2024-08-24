@@ -17,7 +17,7 @@ MESL 机场是一家创立于 2022 年的新晋机场服务商，采用 Shadowso
 ## 特色
 11111111111111111
 * 多线BGP+IPLC专线传输/IEPL专线传输/公有云专线
-* Netfilx/Hulu/HBO/Disney+/Dazn等流媒体解锁
+* Netfilx/Hulu/HBO/Disney+/Dazn等流媒体解锁1
 * 支持5台设备同时在线
 * 个人最高2Gbps
 
